@@ -1,0 +1,1 @@
+if [[ -s $HOME/src/sproutcore/abbot/bin ]] ; then export PATH=$HOME/src/sproutcore/abbot/bin:$PATH ; fi

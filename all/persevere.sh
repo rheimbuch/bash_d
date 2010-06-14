@@ -1,1 +1,0 @@
-export PATH=~/Projects/persevere/1.0/builds/persevere/bin:$PATH

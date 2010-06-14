@@ -1,1 +1,0 @@
-export PATH=~/src/sproutcore/abbot/bin:$PATH
